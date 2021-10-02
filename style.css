@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    margin: 0;
+    max-width: 1920px;
+    width: 100%;
+    background-image: url(./batman.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+
+.content-width {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+}
